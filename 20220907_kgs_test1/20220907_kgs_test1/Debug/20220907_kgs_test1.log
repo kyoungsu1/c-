@@ -1,5 +1,0 @@
-﻿  20220907_kgs_test1.cpp
-D:\C -program\20220907_kgs_test1\20220907_kgs_test1\20220907_kgs_test1.cpp(14,12): error C2059: 구문 오류: ':'
-D:\C -program\20220907_kgs_test1\20220907_kgs_test1\20220907_kgs_test1.cpp(17,9): error C2146: 구문 오류: ';'이(가) 'printf' 식별자 앞에 없습니다.
-D:\C -program\20220907_kgs_test1\20220907_kgs_test1\20220907_kgs_test1.cpp(18,9): error C2146: 구문 오류: ';'이(가) 'printf' 식별자 앞에 없습니다.
-D:\C -program\20220907_kgs_test1\20220907_kgs_test1\20220907_kgs_test1.cpp(19,1): error C2143: 구문 오류: ';'이(가) '}' 앞에 없습니다.
