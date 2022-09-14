@@ -1,0 +1,14 @@
+#include <iostream>
+#include <studio.h>
+int main()
+{
+    int num1, mum2, num3; //정수 변수 선언
+    num1 = num2 = num3 = 0;
+
+    printf("num1= %d wn", num1); //decimal
+    printf("num2= %d num3 = %d wn", num2, num3); //decimal
+    scanf("%d", &num1); // 번지 (주소) 연산지&를 사용해야 함
+    printf("num1= %d wn", num1); //decimal
+
+    return 0;
+}
