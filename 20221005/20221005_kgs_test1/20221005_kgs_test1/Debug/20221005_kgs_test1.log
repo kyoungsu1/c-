@@ -1,0 +1,17 @@
+﻿  20221005_kgs_test1.cpp
+D:\C -program\20221005\20221005_kgs_test1\20221005_kgs_test1\20221005_kgs_test1.cpp(21,12): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+D:\C -program\20221005\20221005_kgs_test1\20221005_kgs_test1\20221005_kgs_test1.cpp(22,5): error C2146: 구문 오류: ')'이(가) 'i' 식별자 앞에 없습니다.
+D:\C -program\20221005\20221005_kgs_test1\20221005_kgs_test1\20221005_kgs_test1.cpp(21,12): warning C4473: 'printf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+D:\C -program\20221005\20221005_kgs_test1\20221005_kgs_test1\20221005_kgs_test1.cpp(21,12): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 0개가 제공되었습니다.
+D:\C -program\20221005\20221005_kgs_test1\20221005_kgs_test1\20221005_kgs_test1.cpp(21,12): message : 누락된 variadic 인수 1이(가) 서식 문자열 '%d'에 필요합니다.
+D:\C -program\20221005\20221005_kgs_test1\20221005_kgs_test1\20221005_kgs_test1.cpp(22,5): error C2146: 구문 오류: ';'이(가) 'i' 식별자 앞에 없습니다.
+D:\C -program\20221005\20221005_kgs_test1\20221005_kgs_test1\20221005_kgs_test1.cpp(25,17): error C2059: 구문 오류: ';'
+D:\C -program\20221005\20221005_kgs_test1\20221005_kgs_test1\20221005_kgs_test1.cpp(26,5): error C2061: 구문 오류: 식별자 'i'
+D:\C -program\20221005\20221005_kgs_test1\20221005_kgs_test1\20221005_kgs_test1.cpp(27,5): error C2059: 구문 오류: ')'
+D:\C -program\20221005\20221005_kgs_test1\20221005_kgs_test1\20221005_kgs_test1.cpp(28,12): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+D:\C -program\20221005\20221005_kgs_test1\20221005_kgs_test1\20221005_kgs_test1.cpp(29,9): error C2143: 구문 오류: ')'이(가) 'return' 앞에 없습니다.
+D:\C -program\20221005\20221005_kgs_test1\20221005_kgs_test1\20221005_kgs_test1.cpp(28,12): warning C4473: 'printf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+D:\C -program\20221005\20221005_kgs_test1\20221005_kgs_test1\20221005_kgs_test1.cpp(28,12): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 0개가 제공되었습니다.
+D:\C -program\20221005\20221005_kgs_test1\20221005_kgs_test1\20221005_kgs_test1.cpp(28,12): message : 누락된 variadic 인수 1이(가) 서식 문자열 '%d'에 필요합니다.
+D:\C -program\20221005\20221005_kgs_test1\20221005_kgs_test1\20221005_kgs_test1.cpp(29,9): error C2143: 구문 오류: ';'이(가) 'return' 앞에 없습니다.
+D:\C -program\20221005\20221005_kgs_test1\20221005_kgs_test1\20221005_kgs_test1.cpp(14,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
